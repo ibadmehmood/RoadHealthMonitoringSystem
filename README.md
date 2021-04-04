@@ -1,6 +1,7 @@
 # Road Health Monitoring System
 Provides Road Maintenance Authorities an easy, time effective and cost-effective solution to find the anomalies present on the road. 
-<b>Tools</>
+<br>
+<b>Tools</b>
   <ul>
   <li>Java</>
   <li>Python</>
