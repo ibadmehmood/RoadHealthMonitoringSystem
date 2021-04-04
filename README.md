@@ -1,33 +1,5 @@
 # Road Health Monitoring System
-Provides Road Maintenance Authorities an easy, time effective and cost-effective solution to find the anomalies present on the road.Road Surface Health Monitoring is a challenging task. The concerned authorities spend a lot of time and money to monitor the quality of the roads. We propose to use the smart phone sensors such as accelerometer and gyroscope for detection of anomalies present on the surface of the 
-road. There already exists mobile application for monitoring road anomalies. Usually, a device with such an application installed on it is place in dedicated vehicle to monitor road health. However, a major 
-drawback of such systems is that they rely 
-heavily on the accuracy of the inertial 
-sensors. Such systems require sensors with 
-higher sampling rates for detailed coverage 
-of road surface. Such sampling rates are 
-often beyond the capacity of the currently 
-available technology in mobile smart 
-phone. On the other hand, we take a 
-different approach. We shall use 
-crowdsourcing to compensate the lag in 
-sampling rates for detailed coverage of 
-roads. We anticipate that aggregated data 
-collected through many people (volunteers) 
-using our mobile application will be more 
-revealing compared to using the existing 
-applications tailored towards mounting on 
-dedicated vehicles. However, we believe 
-that such application will have additional 
-demands in terms of consistency and 
-accuracy (false positives and false 
-negatives). In this research, we aim at 
-developing a mobile application and 
-evaluate its consistency and accuracy under 
-various system parameters such as vehicle 
-type, vehicle speed and the benchmark 
-road.
-
+Provides Road Maintenance Authorities an easy, time effective and cost-effective solution to find the anomalies present on the road.Road Surface Health Monitoring is a challenging task. The concerned authorities spend a lot of time and money to monitor the quality of the roads. We propose to use the smart phone sensors such as accelerometer and gyroscope for detection of anomalies present on the surface of the road. 
 <br>
 
 <b>Tools</b>
