@@ -1,5 +1,5 @@
 # Road Health Monitoring System
-<p>Provides Road Maintenance Authorities an easy, time effective and cost-effective solution to find the anomalies present on the road.Road Surface Health Monitoring is a challenging task. The concerned authorities spend a lot of time and money to monitor the quality of the roads. We propose to use the smart phone sensors such as accelerometer and gyroscope for detection of anomalies present on the surface of the 
+Provides Road Maintenance Authorities an easy, time effective and cost-effective solution to find the anomalies present on the road.Road Surface Health Monitoring is a challenging task. The concerned authorities spend a lot of time and money to monitor the quality of the roads. We propose to use the smart phone sensors such as accelerometer and gyroscope for detection of anomalies present on the surface of the 
 road. There already exists mobile application for monitoring road anomalies. Usually, a device with such an application installed on it is place in dedicated vehicle to monitor road health. However, a major 
 drawback of such systems is that they rely 
 heavily on the accuracy of the inertial 
@@ -27,7 +27,6 @@ evaluate its consistency and accuracy under
 various system parameters such as vehicle 
 type, vehicle speed and the benchmark 
 road.
-  </p>
 
 <br>
 
